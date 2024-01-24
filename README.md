@@ -1,4 +1,6 @@
 # CS1331
+
+Georgia Tech CS1331 Introduction to Object-Oriented Programming
  
 - HW02 - Calculator
 - HW03 - Battleship
